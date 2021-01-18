@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.VCSBasics.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../../:\Users\nakim\AppData\Roaming\JetBrains\Rider2020.3\resharper-host\RiderTutorials\Tutorials\T10\.idea\.idea.VCSBasics\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
